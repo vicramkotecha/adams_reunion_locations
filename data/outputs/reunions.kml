@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Family Reunion Sites</name>
+    <Placemark>
+      <name>2025</name>
+      <description>Waikiki, HI (Beach Resort, Hawaii)</description>
+      <Point>
+        <coordinates>-157.827000,21.276000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2007, 2022</name>
+      <description>Mt. Bachelor Village, OR (Village Resort, West)</description>
+      <Point>
+        <coordinates>-121.340000,44.025000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1986</name>
+      <description>Whispering Pines Resort, CA (Resort, West)</description>
+      <Point>
+        <coordinates>-121.283000,39.500000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1998</name>
+      <description>The Pines, Bass Lake, CA (Resort, West)</description>
+      <Point>
+        <coordinates>-119.574000,37.327000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2004</name>
+      <description>Whispering Pines Resort, AZ (Resort, West)</description>
+      <Point>
+        <coordinates>-111.400000,34.400000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2016</name>
+      <description>Big Sky, MT (Resort, West)</description>
+      <Point>
+        <coordinates>-111.400000,45.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1982</name>
+      <description>Harmel's Ranch Resort, CO (Ranch Resort, West)</description>
+      <Point>
+        <coordinates>-107.983000,38.750000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2013</name>
+      <description>Mt. Princeton Resort, CO (Resort, West)</description>
+      <Point>
+        <coordinates>-106.150000,38.733000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1962</name>
+      <description>Blue Bell Lodge, SD (Lodge, Midwest)</description>
+      <Point>
+        <coordinates>-103.429000,43.585000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1970</name>
+      <description>Clement Beach Cottages, IA (Cottages, Midwest)</description>
+      <Point>
+        <coordinates>-95.150000,43.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1976</name>
+      <description>Red 11 Point, OK (Resort, South)</description>
+      <Point>
+        <coordinates>-94.800000,36.650000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1966</name>
+      <description>Eagle Bay Resort, MN (Resort, Midwest)</description>
+      <Point>
+        <coordinates>-94.598000,47.058000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1973</name>
+      <description>Shore Acres Resort, Table Rock, MO (Resort, Midwest)</description>
+      <Point>
+        <coordinates>-93.333000,36.600000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1989</name>
+      <description>Marawarden Resort, Sarona, WI (Resort, Midwest)</description>
+      <Point>
+        <coordinates>-91.733000,45.783000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1979</name>
+      <description>The Moors, KY (Resort, South)</description>
+      <Point>
+        <coordinates>-88.083000,36.883000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1992, 1995</name>
+      <description>Shawnee State Park, OH (State Park, Midwest)</description>
+      <Point>
+        <coordinates>-83.250000,38.733000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2001</name>
+      <description>Punderson State Park, OH (State Park, Midwest)</description>
+      <Point>
+        <coordinates>-81.200000,41.450000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2010</name>
+      <description>Blackwater Falls State Park, WV (State Park, South)</description>
+      <Point>
+        <coordinates>-79.500000,39.100000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2019</name>
+      <description>Twin Lake Village, NH (Resort, Northeast)</description>
+      <Point>
+        <coordinates>-72.050000,43.050000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

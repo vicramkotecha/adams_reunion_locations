@@ -1,0 +1,7 @@
+pandas
+matplotlib
+geopy
+requests
+numpy
+cartopy
+meteostat==1.7.6

@@ -5,3 +5,4 @@ requests
 numpy
 cartopy
 meteostat==1.7.6
+openpyxl
